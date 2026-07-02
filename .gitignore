@@ -1,1 +1,4 @@
 .DS_Store
+
+# colocated jj working state (redundant with .jj/.gitignore; explicit for non-jj tooling)
+.jj/
